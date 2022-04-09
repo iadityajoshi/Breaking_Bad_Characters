@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Breaking_Bad_Characters/static/css/main.17fc1efe.css",
+    "main.js": "/Breaking_Bad_Characters/static/js/main.faee46ad.js",
+    "static/media/bg.jpg": "/Breaking_Bad_Characters/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Breaking_Bad_Characters/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Breaking_Bad_Characters/index.html",
+    "main.17fc1efe.css.map": "/Breaking_Bad_Characters/static/css/main.17fc1efe.css.map",
+    "main.faee46ad.js.map": "/Breaking_Bad_Characters/static/js/main.faee46ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fc1efe.css",
+    "static/js/main.faee46ad.js"
+  ]
+}
